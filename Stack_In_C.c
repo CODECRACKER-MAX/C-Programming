@@ -4,7 +4,7 @@
 
 int top = -1; // Used for adding and deleting items from the stack.
 int my_data[3];
-int MASKSTACK = 2;
+int MASKSTACK = 3;
 
 void Design()
 {
